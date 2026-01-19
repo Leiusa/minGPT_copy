@@ -52,7 +52,7 @@ cd minGPT_copy
    > You’ll need to figure out how to add/update remotes. Show the commands you chose and the result to the TA.
 5. Push your branch to your fork and open a **pull request** from your branch into `upstream/main` (the original repo, main branch from [avyasharma/minGPT_copy](https://github.com/avyasharma/minGPT_copy)).  
    - Your pull request should include both **a clear title** and a **1-2 sentence description of what changed**.
-6. Save the PR URL to show the TA.
+6. Save the PR URL to show the TA. **Do not merge the PR.**
 
 ## Exercise 3: Safe rollback with `git revert`
 1. On a new commit (can be on your pull request branch), and create a small intentional mistake (e.g., a typo or debug print) and **commit** it.  
