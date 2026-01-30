@@ -146,6 +146,4 @@ Papers + some implementation notes:
 
 MIT
 
-### Tips
-
-I have got the highground!
+Branch conflicting changed
