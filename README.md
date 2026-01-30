@@ -146,4 +146,5 @@ Papers + some implementation notes:
 
 MIT
 
-Branch conflicting changed
+Branch conflicting changedCMU
+Small change for PR exercise.
