@@ -145,3 +145,7 @@ Papers + some implementation notes:
 ### License
 
 MIT
+
+### Tips
+
+I have got the highground!
